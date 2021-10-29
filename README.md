@@ -1,2 +1,4 @@
-# czit-ukoly
-Domaci ukoly CZIT-PROG
+# Domaci ukoly Czechitas
+
+Nase domaci ukoly
+
